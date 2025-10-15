@@ -1,0 +1,101 @@
+First Name,Last Name,Residence,Age,Department,Seniority Level,Workload,Vacation Days Total,Vacation Days Taken,Hire Date
+Nina,Baumann,Appenzell Ausserrhoden,34,Production,Mid-level,90%,15,7,2025-08-30
+Stefan,Baumann,Thurgau,30,Production,Senior,90%,17,9,2015-03-29
+Laura,Becker,Appenzell Innerrhoden,31,Sales,Junior,70%,11,1,2021-02-26
+Xavier,Becker,St. Gallen,29,Finance,Senior,90%,17,10,2016-08-18
+Vanessa,Becker,Aargau,27,HR,Junior,90%,14,5,2025-07-16
+Priska,Berger,Glarus,58,Sales,Manager,80%,18,3,2015-05-06
+Rafael,Bernard,Schaffhausen,29,Sales,Junior,60%,9,2,2021-03-11
+Georg,Bernard,Zug,22,IT,Mid-level,100%,17,17,2022-05-13
+Iris,Bernard,Ticino,50,IT,Senior,80%,15,13,2021-08-06
+Wilma,Bernard,Valais,44,Sales,Lead,90%,19,15,2020-04-18
+David,Bianchi,Appenzell Innerrhoden,22,Production,Senior,80%,15,12,2019-03-21
+Gina,Bianchi,Geneva,58,Production,Manager,100%,23,9,2019-06-25
+Viktor,Blanc,Basel-Stadt,25,IT,Lead,60%,13,12,2015-09-13
+Maria,Brunner,Neuchâtel,26,IT,Junior,60%,9,0,2023-01-06
+Yvonne,Brunner,Neuchâtel,62,Production,Manager,70%,16,9,2016-03-13
+Urs,Bruno,Luzern,36,IT,Senior,80%,15,9,2021-05-23
+Rahel,Colombo,Obwalden,57,Sales,Lead,100%,21,3,2025-01-28
+Rafael,Colombo,Luzern,29,Finance,Lead,80%,17,3,2016-08-15
+Daniel,Conti,Ticino,60,Sales,Manager,100%,23,11,2019-02-06
+Rita,Conti,Zürich,40,HR,Senior,80%,15,11,2017-12-15
+Oliver,Conti,Ticino,33,Sales,Lead,80%,17,3,2016-07-08
+Vera,Conti,Obwalden,44,Production,Manager,100%,23,10,2019-02-26
+Xavier,De Luca,Schwyz,42,Sales,Senior,90%,17,2,2023-03-02
+Hans,De Luca,Uri,61,Production,Manager,90%,21,19,2019-04-03
+Nico,Favre,Jura,51,Sales,Mid-level,80%,14,5,2023-01-26
+Leon,Favre,Glarus,38,Production,Manager,80%,18,3,2016-01-05
+Gina,Ferrari,Schaffhausen,29,Production,Senior,80%,15,12,2017-06-01
+Adrian,Fischer,Fribourg,37,Finance,Mid-level,90%,15,2,2025-09-18
+Ursula,Fischer,Aargau,57,HR,Manager,70%,16,16,2017-12-07
+Julia,Fischer,Schaffhausen,46,Production,Manager,100%,23,9,2018-09-18
+Gina,Fischer,Schwyz,50,Production,Manager,90%,21,21,2016-12-21
+Laura,Fischer,Nidwalden,22,Sales,Senior,100%,19,7,2017-01-01
+Andrea,Frei,Bern,32,IT,Lead,80%,17,4,2016-10-29
+Theresa,Frei,Schwyz,42,Finance,Lead,80%,17,2,2022-05-02
+Christian,Gallo,Ticino,31,HR,Mid-level,70%,12,7,2017-04-18
+Olivia,Gallo,Appenzell Innerrhoden,35,IT,Mid-level,70%,12,2,2025-10-02
+Stefan,Gallo,Thurgau,35,Finance,Lead,90%,19,6,2016-02-22
+Rafael,Gerber,Glarus,43,Sales,Lead,80%,17,10,2018-12-11
+Olivia,Giordano,Zug,24,Production,Lead,60%,13,7,2015-03-01
+Oliver,Giordano,Valais,28,Production,Mid-level,60%,10,0,2017-12-10
+Paula,Graf,Solothurn,27,Sales,Mid-level,100%,17,7,2021-05-01
+Nina,Graf,Ticino,61,Production,Manager,80%,18,6,2015-01-22
+Nico,Greco,Uri,49,Sales,Lead,90%,19,10,2022-09-15
+Wilma,Greco,Zug,26,Production,Junior,100%,15,0,2021-05-31
+Xenia,Greco,Aargau,56,Finance,Lead,60%,13,12,2024-09-18
+Ursula,Huber,Valais,42,IT,Mid-level,80%,14,8,2023-07-11
+Rita,Huber,Bern,40,Sales,Junior,70%,11,4,2025-08-04
+Zacharias,Huber,Schwyz,63,Production,Manager,100%,23,3,2015-05-24
+Helena,Kaufmann,Luzern,54,Sales,Manager,100%,23,18,2015-05-07
+Nina,Kaufmann,Uri,57,Finance,Manager,100%,23,7,2018-08-27
+Heinrich,Keller,Luzern,54,Production,Manager,60%,14,14,2019-05-08
+Vanessa,Keller,Vaud,32,Sales,Mid-level,70%,12,0,2023-12-26
+Fabienne,Koch,Jura,53,HR,Manager,60%,14,2,2019-09-08
+Adrian,Krause,Solothurn,35,Sales,Senior,100%,19,0,2019-12-08
+Klaus,Krause,Solothurn,48,Production,Senior,90%,17,10,2020-02-09
+Urs,Krause,Graubünden,63,Sales,Manager,60%,14,8,2016-12-24
+Georg,Krause,Ticino,47,Production,Lead,100%,21,6,2022-01-29
+Rahel,Mancini,Schwyz,35,Production,Junior,80%,12,11,2024-08-29
+Ernst,Marino,Schaffhausen,64,HR,Lead,80%,17,5,2024-09-04
+Zoë,Martin,Fribourg,39,HR,Lead,100%,21,11,2019-12-09
+Olivia,Meier,Luzern,22,IT,Lead,60%,13,3,2015-07-11
+Xenia,Meier,Basel-Stadt,46,Sales,Lead,90%,19,4,2020-02-18
+Adrian,Meyer,Basel-Stadt,24,IT,Junior,100%,15,13,2024-01-16
+Zoe,Moser,Solothurn,47,Production,Mid-level,100%,17,1,2024-08-19
+Simon,Moser,Solothurn,43,IT,Lead,100%,21,4,2021-01-06
+Nora,Moser,Ticino,38,Production,Senior,80%,15,1,2017-09-03
+Zoë,Müller,Luzern,27,Sales,Junior,60%,9,0,2024-12-02
+Vanessa,Ricci,Fribourg,64,IT,Manager,70%,16,4,2017-10-21
+Nico,Ricci,Zürich,53,Production,Senior,90%,17,4,2023-08-27
+Laura,Ricci,Zürich,49,Sales,Senior,60%,11,11,2025-03-02
+Nina,Ricci,Schwyz,47,Sales,Lead,90%,19,9,2022-10-24
+Eva,Ricci,Bern,59,Production,Lead,90%,19,15,2021-09-01
+Theresa,Ricci,Fribourg,23,Production,Junior,100%,15,3,2025-01-13
+Urs,Ricci,Zug,49,IT,Lead,60%,13,7,2021-01-16
+Zacharias,Richter,Fribourg,58,Sales,Manager,90%,21,7,2017-05-22
+Zoë,Romano,Obwalden,50,Sales,Senior,100%,19,6,2021-04-16
+Adrian,Romano,Aargau,52,Production,Manager,60%,14,12,2019-03-28
+Jan,Rossi,Solothurn,27,Finance,Junior,60%,9,0,2023-02-08
+Ulrich,Rossi,Valais,32,Production,Senior,100%,19,18,2018-08-14
+Anna,Roth,Luzern,25,IT,Senior,70%,13,12,2016-05-18
+Eva,Schmid,Zug,60,Sales,Manager,90%,21,13,2021-05-29
+Yvonne,Steiner,Valais,29,IT,Senior,60%,11,3,2017-12-10
+Carmen,Steiner,Geneva,29,IT,Mid-level,80%,14,12,2018-02-08
+Werner,Steiner,Basel-Stadt,65,Production,Manager,80%,18,18,2015-02-23
+Karin,Steiner,Fribourg,38,Finance,Lead,60%,13,3,2019-03-12
+Fabienne,Vogel,Appenzell Innerrhoden,63,Sales,Manager,90%,21,1,2016-04-26
+Urs,Vogel,Bern,37,Sales,Junior,100%,15,9,2024-01-13
+Elena,Weber,Jura,59,Finance,Senior,90%,17,5,2025-02-15
+Urs,Weber,Vaud,33,Production,Senior,60%,11,2,2021-11-29
+Zoë,Weber,Aargau,60,Finance,Manager,100%,23,14,2017-08-12
+Werner,Weber,Zug,57,Finance,Lead,90%,19,17,2021-05-09
+Maria,Widmer,Thurgau,45,Sales,Manager,90%,21,7,2016-12-07
+Zoe,Widmer,Zug,58,Production,Manager,60%,14,13,2017-10-14
+Gina,Widmer,Ticino,44,Production,Manager,90%,21,3,2017-01-18
+Carmen,Wyss,Zug,59,Production,Lead,60%,13,6,2025-05-03
+Werner,Zimmermann,Solothurn,42,Production,Lead,60%,13,13,2021-06-12
+Yves,Zimmermann,Neuchâtel,49,Production,Manager,100%,23,15,2015-07-29
+Rafael,Zimmermann,Vaud,24,IT,Junior,60%,9,4,2024-03-01
+Franz,Zimmermann,Uri,30,HR,Senior,90%,17,15,2017-08-30
+Karin,Zimmermann,Appenzell Innerrhoden,28,IT,Senior,80%,15,5,2015-06-23
